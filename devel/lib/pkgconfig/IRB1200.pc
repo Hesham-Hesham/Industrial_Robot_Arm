@@ -1,0 +1,8 @@
+prefix=/home/ebrahim/robotics_lab/devel
+
+Name: IRB1200
+Description: Description of IRB1200
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

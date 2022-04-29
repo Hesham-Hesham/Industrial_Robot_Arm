@@ -1,0 +1,8 @@
+prefix=/home/ebrahim/Industrial_Robot_Arm/devel
+
+Name: moveit_config
+Description: Description of moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

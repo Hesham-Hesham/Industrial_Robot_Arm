@@ -1,0 +1,8 @@
+prefix=/home/ebrahim/Industrial_Robot_Arm/devel
+
+Name: abb_robot
+Description: Description of abb_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

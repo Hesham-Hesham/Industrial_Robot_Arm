@@ -1,0 +1,7 @@
+<launch>
+<param name="robot_description" textfile="$(find abb_robot)/urdf/abb_robot_description.urdf"/>
+<node name="rviz" pkg="rviz" type="rviz" args="-d $(find abb_robot)/rviz/robot.rviz"/>
+<node name="joint_state_publisher_gui" pkg="joint_state_publisher_gui" type="joint_state_publisher_gui">
+</node>
+<node name="robot_state_publisher" pkg="robot_state_publisher" type="robot_state_publisher" respawn="true" output="screen"/>
+</launch>

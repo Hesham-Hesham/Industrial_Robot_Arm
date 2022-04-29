@@ -1,0 +1,8 @@
+prefix=/home/ebrahim/robotics_lab/devel
+
+Name: param_test
+Description: Description of param_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

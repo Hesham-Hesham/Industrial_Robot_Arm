@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: abb_robot
+    relative_path: urdf/abb_robot_description.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/homos.srdf
+  CONFIG:
+    author_name: ebrahim_hesham_amr
+    author_email: ebrahimabdelghfar550@gmail.com
+    generated_timestamp: 1651217097

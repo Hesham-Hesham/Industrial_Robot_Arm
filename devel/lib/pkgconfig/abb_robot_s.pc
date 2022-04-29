@@ -1,0 +1,8 @@
+prefix=/home/ebrahim/robotics_lab/devel
+
+Name: abb_robot_s
+Description: Description of abb_robot_s
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
