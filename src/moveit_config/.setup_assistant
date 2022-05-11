@@ -6,6 +6,6 @@ moveit_setup_assistant_config:
   SRDF:
     relative_path: config/homos.srdf
   CONFIG:
-    author_name: ebrahim_hesham_amr
+    author_name: ebrahim
     author_email: ebrahimabdelghfar550@gmail.com
-    generated_timestamp: 1651217097
+    generated_timestamp: 1651956801
